@@ -1,3 +1,5 @@
+// ----------- UDACITY - CONDITIONALS --------------
+
 /*const raining = false;
 const cold = false;
 
@@ -22,10 +24,23 @@ if (temperature < 0) {
 }
 
 console.log("Now you're ready to go outside!");*/
-
+/*
 let temperature = 50;
 if (temperature < -40 || temperature > 40) {
 console.log("Maybe going outside isn't such a great idea…");
   } else {
       console.log("go outside!");
+  }*/
+/*
+  function whichSchool(age) {
+    if(age < 13) {
+      return "Elementary School";
+    } else if (age >= 13 && age <= 18) {
+      return "Secondary School";
+    } else {
+      return "Lighthouse Labs";
+    }
   }
+  console.log(whichSchool(30));
+  */
+
